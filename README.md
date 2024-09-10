@@ -3,6 +3,7 @@
 python
 
 pip install opencv-python
+pip install scikit-learn
 
 first make a model of your face by runing the add_faces.py file
 than, take attendance by runing test.py
