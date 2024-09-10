@@ -10,6 +10,9 @@ pip install pywin32
 
 pip install streamlit
 
+pip install streamlit-autorefresh
+
+
 
 first make a model of your face by runing the add_faces.py file
 than, take attendance by runing test.py
