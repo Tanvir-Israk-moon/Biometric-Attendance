@@ -8,6 +8,8 @@ pip install scikit-learn
 
 pip install pywin32
 
+pip install streamlit
+
 
 first make a model of your face by runing the add_faces.py file
 than, take attendance by runing test.py
